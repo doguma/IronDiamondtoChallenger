@@ -7,8 +7,7 @@ Analyzing game pattern in League of Legends with Machine Learning
 - Feature Engineering : created (tags) & dropped (bans, gameid, etc.) different features
 - ML methods : Random Forest, KNN, SVM, GNB and XGB with hyperparameter tuning
 - Interpretation : PDP isolate plots, shap values and summary plot
-- 
-- s2p.ipynb includes eda, feature engineering, data wrangling and various ML methods on the kaggle data.
+
 
 ![Alt text](https://github.com/doguma/IronDiamondtoChallenger/blob/main/s2p_slides/s2p_slide2.png?raw=true)
 ![Alt text](https://github.com/doguma/IronDiamondtoChallenger/blob/main/s2p_slides/s2p_slide3.png?raw=true)
