@@ -10,7 +10,6 @@ Analyzing game pattern in League of Legends with Machine Learning
 
 
 ![Alt text](https://github.com/doguma/IronDiamondtoChallenger/blob/main/s2p_slides/s2p_slide2.png?raw=true)
-![Alt text](https://github.com/doguma/IronDiamondtoChallenger/blob/main/s2p_slides/s2p_slide3.png?raw=true)
 ![Alt text](https://github.com/doguma/IronDiamondtoChallenger/blob/main/s2p_slides/s2p_slide4.png?raw=true)
 ![Alt text](https://github.com/doguma/IronDiamondtoChallenger/blob/main/s2p_slides/s2p_slide5.png?raw=true)
 ![Alt text](https://github.com/doguma/IronDiamondtoChallenger/blob/main/s2p_slides/s2p_slide6.png?raw=true)
